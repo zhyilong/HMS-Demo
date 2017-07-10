@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hmssample</string>
+    <string name="hw_id">华为帐号</string>
+    <string name="hw_pay">华为支付</string>
+    <string name="hw_push">华为PUSH</string>
+	<string name="hw_sns">华为社交</string>
+	<string name="sample_description">华为移动服务使用流程演示</string>
+	<string name="sample_hwid_description">华为帐号使用流程演示</string>
+	<string name="sample_hwpay_description">华为支付使用流程演示</string>
+	<string name="sample_hwsns_description">华为社交使用流程演示，在使用社交相关接口之前需要登录帐号</string>
+	<string name="sample_hwpush_description">华为PUSH使用流程演示</string>
+	
+	<string name="hwid_sign_in">登录帐号</string>
+	<string name="hwid_sign_out">退出帐号</string>
+	<string name="hwid_user_photo">头像</string>
+	
+	<string name="sns_start">启动社交</string>
+	<string name="sns_send_msg">发送消息</string>
+	
+	<string name="num_buy">"购买数量: "</string>
+	<string name="hwpay_buy">确认购买</string>
+	<string name="pay_country">"国家码:"</string>
+
+	<string name="push_gettoken_sync">同步获取Token</string>
+	<string name="push_gettoken_asyn">异步获取Token</string>
+	<string name="get_push_status">获取PUSH状态</string>
+	<string name="push_status">"PUSH状态: "</string>
+	<string name="push_receive_msg">接收PUSH透传消息</string>
+	<string name="push_delete_token">删除Token</string>
+	
+	<string name="push_token_des">"TOKEN: "</string>
+</resources>
